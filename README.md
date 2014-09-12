@@ -8,7 +8,6 @@ A data-visalization tool that allows users to upload a data file in one of many 
 Also connects to the Bloomberg API to fetch real-time information from the Bloomberg servers about certain tech tickers to then display the appropriate data in interactive line graphs.
 
 Project Contributors:
-
 <br>// Mayank Mahajan @mayankmahajan24
 <br>// Gary Lin @garymlin
 <br>// Justin Chang
