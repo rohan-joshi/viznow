@@ -1,14 +1,15 @@
-cartodbforfinance
+viznow
 =================
 
-MHacks IV!
+MHacks IV @ University of Michigan, Ann Arbor from September 5-7, 2014!
 
+A data-visalization tool that allows users to upload a data file in one of many formats like .csv, .tsv, .json or .xls and displays the appropriate line graph, chord diagram, chloropleth visualization or interactive bubble graph.
 
-Ideas for Functionality:
-1. CartoDB type visaul animations -- moving images in 60 seconds etc. -- https://srogers.cartodb.com/viz/1b9b0670-8d15-11e3-8ddf-0edd25b1ac90/public_map 
+Also connects to the Bloomberg API to fetch real-time information from the Bloomberg servers about certain tech tickers to then display the appropriate data in interactive line graphs.
 
+Project Contributors:
 
-2. Kickstarter locations
-3. Nest homes
-4. Trading volume
-5. Tweets
+// Mayank Mahajan
+// Gary Lin @garymlin
+// Justin Chang @
+// Anshul Gupta @anshulkgupta
