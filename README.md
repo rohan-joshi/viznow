@@ -10,5 +10,5 @@ Also connects to the Bloomberg API to fetch real-time information from the Bloom
 Project Contributors:
 <br>// Mayank Mahajan @mayankmahajan24
 <br>// Gary Lin @garymlin
-<br>// Justin Chang
+<br>// Justin Chang @jstnchng
 <br>// Anshul Gupta @anshulkgupta
